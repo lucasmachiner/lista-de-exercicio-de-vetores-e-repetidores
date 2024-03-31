@@ -20,6 +20,7 @@ public class Main {
     Prompt.imprimir("5 - Exercicio 5");
     Prompt.imprimir("6 - Exercicio 6");
     Prompt.imprimir("7 - Exercicio 7");
+    Prompt.imprimir("8 - Exercicio 8");
     exercico = Prompt.lerInteiro();
 
     switch (exercico) {
